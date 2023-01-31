@@ -1,0 +1,1 @@
+This is a sample Project for the mockup of E-commerce
